@@ -158,3 +158,54 @@ nav a:hover{
 #geral aside{
     flex:1;
 }
+ .width_title{
+    margin-top: 30px;
+    margin-bottom: 20px;
+ }
+
+ .width_title_text{
+    color:black;
+    font-size: 21px;
+    font-weight: bold;
+ }
+ .width_title_bar{
+    width: 50px;
+    height: 2px;
+    background-color: #36a9e1;
+    margin-top: 10px;
+ }
+
+ .width_body{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+ }
+
+ .quadrado{
+    width: 140px;
+    height: 140px;
+    background-color: #0079c9;
+    margin: 5px;
+ }
+
+ .width_body2 p{
+    padding-top: 15px;
+    padding-bottom: 30px;
+ }
+
+ .media-contacts{
+   padding-right: 20px;
+   
+
+ }
+
+ .media-contacts p{
+    border-top: 2px solid rgb(194, 193, 193);
+    border-bottom: 2px solid rgb(228, 227, 227);
+ }
+
+ .media-contacts i{
+   padding-right:10px;
+   font-size: 22px;
+   color:#028be6;
+ }
